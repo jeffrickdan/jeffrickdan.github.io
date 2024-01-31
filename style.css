@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(assets/background.jpg) no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 550px;
+    background: rgba(0, 0, 0, 0);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.box h5{
+    font-size: 25px;
+    letter-spacing: 0px;
+    font-weight: 100;
+}
+.box p{
+    text-align: center;
+}
+
+.about-box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about-box-img{
+    border-radius: 50%;
+    width: 400px;
+    height: 200px;
+}
+
+.about-box p{
+    text-align: center;
+}
+
+.about-icons{
+    width: auto;
+    height: 20px;
+}
+
+.works-box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.works-box-img{
+    border-radius: 50%;
+    width: 400px;
+    height: 200px;
+}
+
+.behance-icon{
+    border-radius: 0%;
+    width: auto;
+    height: 15px;
+}
+
+.works-box h1{
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.works-box h5{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+.works-box p{
+    text-align: center;
+}
+
+.contact-box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact-box-img{
+    border-radius: 50%;
+    width: 400px;
+    height: 200px;
+}
+
+.contact-box p{
+    text-align: center;
+}
+
+.email-button {
+    background-color: #lightgray;
+    border: none;
+    border-radius: 3%;
+    color: white;
+    padding: 15px 32px;
+    text-align: auto;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.email-icon{
+    border-radius: 0%;
+    width: auto;
+    height: 15px;
+}  
+
+ul{
+    margin: 0;
+    padding: 0;;
+}
+.box li{
+    display: inline-block;
+    margin: 10px;
+    list-style: none;
+}
+
+.nav-button{
+    border-radius: 0%;
+    width: auto;
+    height: 50px;
+}
+
+.social-icon{
+    border-radius: 0%;
+    width: auto;
+    height: 35px;
+}
+
+.contact-box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+a {
+    color: gray;
+    font-weight: 100;
+}
+
